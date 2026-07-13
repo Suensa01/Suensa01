@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building scalable backend applications using Java, Spring Boot, and REST APIs<br><br>🌱 Learning Spring Security, Microservices, Docker, and AWS<br><br>👨‍💻 All of my projects are available at: https://github.com/Suensa01<br><br>💬 Ask me about Java, Spring Boot, REST APIs, MySQL, React, and Backend Development<br><br>📫 Reach me at: your.email@gmail.com<br><br>⚡ Outside coding, I enjoy sketching portraits and playing badminton.
+🔭 Building scalable backend applications using Java, Spring Boot, and REST APIs<br><br>🌱 Learning Spring Security, Microservices, Docker, and AWS<br><br>👨‍💻 All of my projects are available at: https://github.com/Suensa01<br><br>💬 Ask me about Java, Spring Boot, REST APIs, MySQL, React, and Backend Development<br><br>📫 Reach me at: suensa.dev@gmail.com<br><br>⚡ Outside coding, I enjoy sketching portraits and playing badminton.
 
 
 ## 🌐 Socials:
